@@ -19,10 +19,10 @@ const Hero = () => {
         collaboration with KSIF and powered by AVPN.
       </span>
       <Link
-        href="#about"
-        className="bg-black text-white mt-6 p-4 px-6 text-xs rounded-xl"
+        href="https://bit.ly/EmpowerHerGirlScript"
+        className="bg-black text-white p-4 px-6 text-xs rounded-xl"
       >
-        Learn More
+        Apply Now
       </Link>
     </div>
   );
