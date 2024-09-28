@@ -20,7 +20,7 @@ const Hero = () => {
       </span>
       <Link
         href="https://bit.ly/EmpowerHerGirlScript"
-        className="bg-black text-white p-4 px-6 text-xs rounded-xl"
+        className="bg-black text-white mt-6 p-4 px-6 text-xs rounded-xl"
       >
         Apply Now
       </Link>
